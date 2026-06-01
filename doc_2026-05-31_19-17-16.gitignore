@@ -1,0 +1,5 @@
+﻿bin/
+docs/
+src/
+*.exe
+.DS_Store
